@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["c_void",""]],"macro":[["ffi_dispatch!",""]],"mod":[["common","Various types and functions that are used by both the client and the server libraries."]],"type":[["c_char",""],["c_int",""],["size_t",""],["uint32_t",""]]});

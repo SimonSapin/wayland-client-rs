@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Event",""]],"mod":[["wayland",""]],"struct":[["EventIterator",""],["ProxyId",""]],"trait":[["Proxy",""]]});

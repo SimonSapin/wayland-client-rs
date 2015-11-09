@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["WlOutputEvent",""],["WlOutputMode","mode information"],["WlOutputSubpixel","subpixel geometry information"],["WlOutputTransform","transform from framebuffer to output"]],"struct":[["WlOutput","compositor output region"]]});
